@@ -1,0 +1,27 @@
+{
+    "name": "Pfannkuchen",
+    "zubereitungszeit": 20,
+    "zutaten": [
+      {
+        "name": "Mehl",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 300,
+        "einheit": "ml"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stück"
+      }
+    ],
+    "anleitung": [
+      "Mehl, Milch und Eier in eine Schüssel geben.",
+      "Alles gut verrühren, bis keine Klumpen mehr vorhanden sind.",
+      "Den Teig in einer Pfanne portionsweise ausbacken."
+    ]
+  }
+  

@@ -1,0 +1,74 @@
+{
+    "rezepte": [
+      {
+        "name": "Pfannkuchen",
+        "zubereitungszeit": 20,
+        "zutaten": [
+          { "name": "Mehl", "menge": 200, "einheit": "g" },
+          { "name": "Milch", "menge": 300, "einheit": "ml" },
+          { "name": "Eier", "menge": 2, "einheit": "Stück" }
+        ],
+        "anleitung": [
+          "Mehl, Milch und Eier in eine Schüssel geben.",
+          "Alles gut verrühren, bis keine Klumpen mehr vorhanden sind.",
+          "Den Teig in einer Pfanne portionsweise ausbacken."
+        ]
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "zubereitungszeit": 45,
+        "zutaten": [
+          { "name": "Spaghetti", "menge": 400, "einheit": "g" },
+          { "name": "Hackfleisch", "menge": 300, "einheit": "g" },
+          { "name": "Tomatensauce", "menge": 500, "einheit": "ml" },
+          { "name": "Zwiebel", "menge": 1, "einheit": "Stück" },
+          { "name": "Knoblauch", "menge": 2, "einheit": "Zehen" },
+          { "name": "Olivenöl", "menge": 2, "einheit": "EL" }
+        ],
+        "anleitung": [
+          "Spaghetti in kochendem Salzwasser nach Packungsanweisung garen.",
+          "Zwiebel und Knoblauch fein hacken und in Olivenöl anbraten.",
+          "Hackfleisch hinzufügen und krümelig braten.",
+          "Tomatensauce hinzufügen und etwa 20 Minuten köcheln lassen.",
+          "Die Spaghetti abgießen und mit der Sauce servieren."
+        ]
+      },
+      {
+        "name": "Caesar Salad",
+        "zubereitungszeit": 15,
+        "zutaten": [
+          { "name": "Römersalat", "menge": 1, "einheit": "Kopf" },
+          { "name": "Hähnchenbrust", "menge": 200, "einheit": "g" },
+          { "name": "Croutons", "menge": 50, "einheit": "g" },
+          { "name": "Parmesan", "menge": 30, "einheit": "g" },
+          { "name": "Caesar-Dressing", "menge": 100, "einheit": "ml" }
+        ],
+        "anleitung": [
+          "Hähnchenbrust in Streifen schneiden und anbraten.",
+          "Römersalat waschen und in mundgerechte Stücke schneiden.",
+          "Salat, Hähnchenstreifen, Croutons und Parmesan in eine Schüssel geben.",
+          "Das Caesar-Dressing hinzufügen und gut vermischen."
+        ]
+      },
+      {
+        "name": "Schokoladenkuchen",
+        "zubereitungszeit": 60,
+        "zutaten": [
+          { "name": "Mehl", "menge": 200, "einheit": "g" },
+          { "name": "Zucker", "menge": 150, "einheit": "g" },
+          { "name": "Kakaopulver", "menge": 50, "einheit": "g" },
+          { "name": "Eier", "menge": 3, "einheit": "Stück" },
+          { "name": "Butter", "menge": 150, "einheit": "g" },
+          { "name": "Milch", "menge": 200, "einheit": "ml" }
+        ],
+        "anleitung": [
+          "Butter und Zucker schaumig rühren.",
+          "Eier einzeln hinzufügen und gut verrühren.",
+          "Mehl und Kakaopulver mischen und abwechselnd mit der Milch unterrühren.",
+          "Den Teig in eine gefettete Kuchenform geben.",
+          "Bei 180 °C für etwa 40 Minuten backen."
+        ]
+      }
+    ]
+  }
+  
